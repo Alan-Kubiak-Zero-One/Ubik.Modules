@@ -1,0 +1,8 @@
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Release\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Release\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Release\UbikCode.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Release\UbikCode.pdb
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Release\UbikCode.xml
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Release\UbikModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Release\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Release\Ubik.Modules.pdb

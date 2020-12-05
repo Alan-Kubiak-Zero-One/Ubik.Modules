@@ -1,0 +1,24 @@
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.xml
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\UbikModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\bin\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\bin\Debug\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\bin\Debug\UbikCode.dll
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\bin\Debug\UbikCode.pdb
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\bin\Debug\UbikCode.xml
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\obj\Debug\UbikModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\obj\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code - Copie (2)\ConscriptModules\obj\Debug\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Debug\Ubik.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Debug\UbikCode.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Debug\UbikCode.pdb
+C:\Users\lived\Desktop\Ubik Code\UbikModules\bin\Debug\UbikCode.xml
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Debug\UbikModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Debug\Ubik.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\UbikModules\obj\Debug\Ubik.Modules.pdb

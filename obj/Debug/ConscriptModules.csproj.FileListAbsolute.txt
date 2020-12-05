@@ -1,0 +1,16 @@
+C:\Users\lived\Desktop\Conscript\ConscriptModules\bin\Debug\Conscript.Modules.dll
+C:\Users\lived\Desktop\Conscript\ConscriptModules\bin\Debug\Conscript.Modules.pdb
+C:\Users\lived\Desktop\Conscript\ConscriptModules\bin\Debug\Conscript.dll
+C:\Users\lived\Desktop\Conscript\ConscriptModules\bin\Debug\Conscript.pdb
+C:\Users\lived\Desktop\Conscript\ConscriptModules\bin\Debug\Conscript.xml
+C:\Users\lived\Desktop\Conscript\ConscriptModules\obj\Debug\ConscriptModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Conscript\ConscriptModules\obj\Debug\Conscript.Modules.dll
+C:\Users\lived\Desktop\Conscript\ConscriptModules\obj\Debug\Conscript.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\Conscript.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\Conscript.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\ConscriptModules.csprojResolveAssemblyReference.cache
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\Conscript.Modules.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\obj\Debug\Conscript.Modules.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.dll
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.pdb
+C:\Users\lived\Desktop\Ubik Code\ConscriptModules\bin\Debug\UbikCode.xml
